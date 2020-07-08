@@ -1,0 +1,6 @@
+.router-link-exact-active{
+  background-color:red;
+  color:#fff;
+  font-weight:bold;
+  padding:5px 10px;
+}
